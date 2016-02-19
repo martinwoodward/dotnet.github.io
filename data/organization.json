@@ -8,5 +8,23 @@
     "name": "aspnet",
     "url": "https://github.com/aspnet",
     "contributor" : "Microsoft"
+},
+{
+    "title": "WorldWide Telescope",
+    "name": "worldwidetelescope",
+    "url": "https://github.com/worldwidetelescope",
+    "contributor" : "Microsoft"
+},
+{
+    "title": "Open Live Writer",
+    "name": "openlivewriter",
+    "url": "https://github.com/openlivewriter",
+    "contributor" : "Microsoft"
+},
+{
+    "title": "Prism Library",
+    "name": "prismlibrary",
+    "url": "https://github.com/prismlibrary",
+    "contributor" : "Microsoft"
 }
 ]
