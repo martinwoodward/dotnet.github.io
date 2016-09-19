@@ -22,6 +22,36 @@
     "contributor" : "Microsoft"
 },
 {
+    "title": "Cake Build",
+    "name": "cake-build",
+    "url": "https://github.com/cake-build",
+    "contributor" : "Cake Build"
+},
+{
+    "title": "Protobuild",
+    "name": "Protobuild",
+    "url": "https://github.com/Protobuild",
+    "contributor" : "Protobuild"
+},
+{
+    "title": "Wix Toolset",
+    "name": "wixtoolset",
+    "url": "https://github.com/wixtoolset",
+    "contributor" : "WiX Toolset"
+},
+{
+    "title": "xUnit",
+    "name": "xunit",
+    "url": "https://github.com/xunit",
+    "contributor" : "xUnit"
+},
+{
+    "title": "Mono Project",
+    "name": "mono",
+    "url": "https://github.com/mono",
+    "contributor" : "Xamarin"
+},
+{
     "title": "Prism Library",
     "name": "prismlibrary",
     "url": "https://github.com/prismlibrary",
