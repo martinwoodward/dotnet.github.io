@@ -67,9 +67,29 @@
       "Contributor" : "Xamarin"
     },
     {
+      "GithubOrg": "xamarin",
+      "GithubRepo": "Xamarin.Forms",
+      "Contributor" : "Xamarin"
+    },
+    {
+      "GithubOrg": "xamarin",
+      "GithubRepo": "xamarin-macios",
+      "Contributor" : "Xamarin"
+    },
+    {
+      "GithubOrg": "xamarin",
+      "GithubRepo": "xamarin-android",
+      "Contributor" : "Xamarin"
+    },
+    {
       "GithubOrg": "umbraco",
       "GithubRepo": "Umbraco-CMS",
       "Contributor" : "Umbraco"
+    },
+    {
+      "GithubOrg": "reactive-extensions",
+      "GithubRepo": "rx.net",
+      "Contributor" : "Microsoft"
     },
     {
       "CodePlexProject": "http://aspnetwebstack.codeplex.com",
